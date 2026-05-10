@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[1533,["/_next/static/chunks/0pwykg059ooyp.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/112q4aby5rxgq.js","/_next/static/chunks/0mf.ap4i8~0qi.js"],"TypewriterHero"]
-3:I[97367,["/_next/static/chunks/0pwykg059ooyp.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/112q4aby5rxgq.js"],"OutletBoundary"]
+2:I[1533,["/_next/static/chunks/0vrk7bz.jnoyy.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/112q4aby5rxgq.js","/_next/static/chunks/0mf.ap4i8~0qi.js"],"TypewriterHero"]
+3:I[97367,["/_next/static/chunks/0vrk7bz.jnoyy.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/112q4aby5rxgq.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/0mf.ap4i8~0qi.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ivgy0ULjHaWjdp8_uBOgr"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/0mf.ap4i8~0qi.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fsvtQ_5B53zPEX0MecgQq"}
 5:null
